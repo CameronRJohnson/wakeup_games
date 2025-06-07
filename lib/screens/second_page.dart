@@ -236,7 +236,6 @@ class _SecondPageState extends State<SecondPage> {
     );
   }
 
-  // THE GOODs
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
@@ -248,7 +247,6 @@ class _SecondPageState extends State<SecondPage> {
             resizeToAvoidBottomInset: false,
             backgroundColor: myColor,
             body: Column(
-              // mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 headText(),
                 timeLeftText(),
