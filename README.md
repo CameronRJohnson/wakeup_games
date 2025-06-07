@@ -3,7 +3,7 @@ Games designed to help you wake up in the morning.
 
 The purpose of this application is for the user to load it after waking up in the morning and use it as a tool to help jumpstart their mind. The app includes two different types of games. This project was also made to prove a proficiency in using the dart language as well as the Flutter framework.
 
-[Visual Walkthrough]()
+[Visual Walkthrough](https://www.youtube.com/watch?v=c-E2vw3VCjs)
 
 # Development Environment
 
